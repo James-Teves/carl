@@ -109,8 +109,10 @@ a:hover{
 }
 
 .contact-message{
-    width: 40%;
-    margin: 2.5rem auto 3.75rem;
+    color: #40514E;
+    line-height: 2;
+
+
 }
 
 .btn{
